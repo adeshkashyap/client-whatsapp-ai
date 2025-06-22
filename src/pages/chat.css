@@ -1,0 +1,28 @@
+.chat-container {
+    padding: 1.5rem;
+  }
+  
+  .chat-container h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+  }
+  
+  .chat-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .chat-item {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+  
+  .chat-item strong {
+    color: #444;
+  }
+  
+  .chat-item em {
+    color: #888;
+    font-style: italic;
+  }
+  

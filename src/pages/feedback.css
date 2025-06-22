@@ -1,0 +1,23 @@
+.feedback-container {
+    padding: 1.5rem;
+  }
+  
+  .feedback-container h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+  }
+  
+  .feedback-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .feedback-item {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+  
+  .feedback-item strong {
+    color: #333;
+  }
+  

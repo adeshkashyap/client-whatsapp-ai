@@ -1,0 +1,23 @@
+.learned-container {
+    padding: 1.5rem;
+  }
+  
+  .learned-container h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+  }
+  
+  .learned-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .learned-item {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+  
+  .learned-item strong {
+    color: #2c3e50;
+  }
+  

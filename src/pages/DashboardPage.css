@@ -1,0 +1,58 @@
+.dashboard-container {
+    max-width: 1000px;
+    padding: 2rem;
+  }
+  
+  .whatsapp-status-box {
+    margin-top: 2rem;
+  }
+  
+  .status-connected {
+    border: 1px solid #4caf50;
+    background: #e8f5e9;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
+  .wa-logout-btn {
+    background: #f44336;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .qr-box {
+    margin-top: 1rem;
+  }
+  
+  .qr-image {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 1rem;
+  }
+  
+  .connecting-status {
+    color: orange;
+    margin-bottom: 1rem;
+  }
+  
+  .loader {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #f3f3f3;
+    border-top: 2px solid orange;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-right: 5px;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
